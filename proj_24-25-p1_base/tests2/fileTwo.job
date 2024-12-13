@@ -1,0 +1,10 @@
+WRITE [(Fernando,Pessoa)(Luís,Camões)]
+
+WRITE [(M,Mariana)]
+WRITE [(F,Filipa)]
+WRITE [(A,Antonia)]
+WRITE [(J,Joana)]
+WRITE [(R,Rita)]
+SHOW
+BACKUP
+BACKUP

@@ -1,0 +1,116 @@
+Available commands:
+  WRITE [(key,value)(key2,value2),...]
+  READ [key,key2,...]
+  DELETE [key,key2,...]
+  SHOW
+  WAIT <delay_ms>
+  BACKUP
+  HELP
+(Alexandre, Sousa)
+(Adriana, Alves)
+(Alberto, Mendes)
+(Cristina, Rodrigues)
+(Carlos, Lima)
+(Fabiana, Lopes)
+(Gustavo, Vinícius)
+(Helena, Monteiro)
+(Marco, Ferreira)
+(Nicolas, Pereira)
+(Paulo, Carvalho)
+(Renata, Teixeira)
+(Alexandre, Sousa)
+(Adriana, Alves)
+(Alberto, Mendes)
+(Cristina, Rodrigues)
+(Carlos, Lima)
+(Fernando, Gomes)
+(Fabiana, Lopes)
+(Gustavo, Vinícius)
+(Helena, Monteiro)
+(Mariana, Maggie)
+(Margarida, Mari)
+(Marco, Ferreira)
+(Nicolas, Pereira)
+(Patrícia, Barros)
+(Paulo, Carvalho)
+(Renata, Teixeira)
+(Alexandre, Sousa)
+(Adriana, Alves)
+(Alberto, Mendes)
+(Cristina, Rodrigues)
+(Carlos, Lima)
+(Fernando, Gomes)
+(Fabiana, Lopes)
+(Gustavo, Vinícius)
+(Helena, Monteiro)
+(Mariana, Maggie)
+(Margarida, Mari)
+(Marco, Ferreira)
+(Nicolas, Pereira)
+(Patrícia, Barros)
+(Paulo, Carvalho)
+(Renata, Teixeira)
+(Alexandre, Sousa)
+(Adriana, Alves)
+(Alberto, Mendes)
+(Cristina, Rodrigues)
+(Carlos, Lima)
+(Fernando, Gomes)
+(Fabiana, Lopes)
+(Gustavo, Vinícius)
+(Helena, Monteiro)
+(Mariana, Maggie)
+(Margarida, Mari)
+(Marco, Ferreira)
+(Nicolas, Pereira)
+(Patrícia, Barros)
+(Paulo, Carvalho)
+(Renata, Teixeira)
+(Alexandre, Sousa)
+(Adriana, Alves)
+(Alberto, Mendes)
+(Cristina, Rodrigues)
+(Carlos, Lima)
+(Fernando, Gomes)
+(Fabiana, Lopes)
+(Gustavo, Vinícius)
+(Helena, Monteiro)
+(Mariana, Maggie)
+(Margarida, Mari)
+(Marco, Ferreira)
+(Nicolas, Pereira)
+(Patrícia, Barros)
+(Paulo, Carvalho)
+(Renata, Teixeira)
+(Alexandre, Sousa)
+(Adriana, Alves)
+(Alberto, Mendes)
+(Cristina, Rodrigues)
+(Carlos, Lima)
+(Fernando, Gomes)
+(Fabiana, Lopes)
+(Gustavo, Vinícius)
+(Helena, Monteiro)
+(Mariana, Maggie)
+(Margarida, Mari)
+(Marco, Ferreira)
+(Nicolas, Pereira)
+(Patrícia, Barros)
+(Paulo, Carvalho)
+(Renata, Teixeira)
+Available commands:
+  WRITE [(key,value)(key2,value2),...]
+  READ [key,key2,...]
+  DELETE [key,key2,...]
+  SHOW
+  WAIT <delay_ms>
+  BACKUP
+  HELP
+Available commands:
+  WRITE [(key,value)(key2,value2),...]
+  READ [key,key2,...]
+  DELETE [key,key2,...]
+  SHOW
+  WAIT <delay_ms>
+  BACKUP
+  HELP
